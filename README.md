@@ -23,7 +23,11 @@ This custom automation is designed to simplify the process of creating a machine
 ### Presentation Slides:
 - [presentation.pptx](https://github.com/user-attachments/files/17460375/presentation.pptx)
 
-  
+
+### Developer:
+- [Hammad Rafique](https://github.com/HammadRafique29/)
+- hammadrafique029@gmail.com
+- codingmagician0@gmail.com
 
 ### Demo:
 
